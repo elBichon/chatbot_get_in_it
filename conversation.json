@@ -225,6 +225,143 @@
 			"Well look. he said he's happier now. Maybe he just needs to rest up a little.",
 			"Yeah. I'm sure whatever that Super Adventure Club does is pretty tiring.",
 			"Yeah but whatever I'm just glad he's back for good."
+		],
+		[
+			"Hi Mary.",
+			"Oh, hi.",
+			"How are you doing?",
+			"I'm doing alright. How about you?",
+			"Not too bad. The weather is great isn't it?",
+			"Yes. It's absolutely beautiful today.",
+			"I wish it was like this more frequently.",
+			"Me too.",
+			"So where are you going now?",
+			"I'm going to meet a friend of mine at the department store.",
+			"Going to do a little shopping?",
+			"Yeah, I have to buy some presents for my parents.",
+			"What's the occasion?",
+			"It's their anniversary.",
+			"That's great. Well, you better get going. You don't want to be late.",
+			"I'll see you next time.",
+			"Sure. Bye."
+		],
+		[
+			"Hi. My name is Josh. It's a pleasure to meet you.",
+			"Hi Josh. I'm glad to be here.",
+			"Did you have any problems finding this place.",
+			"I didn't have any problems. I found directions on the internet so it was pretty easy to find. However, the traffic was not that great.",
+			"Traffic is never good around here.",
+			"I agree. It would be great if there was a train or a subway line that went through here.",
+			"That would be so great. I would definitely take the train if they had it.",
+			"Trains are great because you can read a book or get a little rest instead of having to fight the traffic.",
+			"Very true. Well, let me begin by telling you about our company..."
+		],
+		[
+			"Hey Paul. What are you doing here?",
+			"How's it going? I'm meeting up with a friend here.",
+			"How have you been man?",
+			"Not too bad. I'm still in school and having a little fun.",
+			"How are you enjoying Mr. Lee's history class?",
+			"It's so boring.",
+			"Tell me about it. If it wasn't a requirement, I wouldn't have taken it.",
+			"How about you? What have you been up to?",
+			"I finished school last spring. I'm searching for a job now, but I'm slacking off.",
+			"I heard the job market is not that hot right now.",
+			"I could always take a low end job, but I'm not that desperate yet.",
+			"Well, good luck to you.",
+			"Thanks. It was good seeing you again.",
+			"Yeah. I'll catch you later.",
+			"Have a good night."
+		],
+		[
+			"You're John right?",
+			"Yes. Oh, you're in my English class right?",
+			"Yeah. I'm Martha.",
+			"Well it's good to finally meet you.",
+			"How are you enjoying the class?",
+			"I'm not sure. Some days it seems ok, but other days I am totally bored in class.",
+			"I know what you mean. Do you know what is wrong with the weather these days? I haven't seen the sun in 2 weeks.",
+			"The weather has been pretty terrible recently.",
+			"I'm really hoping the weather gets better.",
+			"Do you have something coming up?",
+			"To tell you the truth, it's just depressing seeing so much rain.",
+			"I don't blame you. It has been pretty gloomy for some time now.",
+			"This is my stop. I'll see you later.",
+			"I'll see you in class. Bye."
+		],
+		[
+
+			"Hey John, I'm going to see The Matrix with Peter and Brad. Do you wanna come?",
+			"When are you guys going?",
+			"We're going to see the eight O'clock showing.",		
+			"That would be great. Where are you guys meeting?",
+			"We're meeting at the theater at seven thirty.",
+			"Great. I'll meet you guys there."
+		],
+		[
+			"Hey Jill.",
+			"What's up Mike?",
+			"I was wondering if you have any plans for tomorrow night.",
+			"Umm... I don't think I have anything special for tomorrow. Why?",
+			"Do you want to see The Titanic with me?",
+			"I wanted to see that. Yeah. Let's go.",
+			"What time is good for you?",
+			"How about seven thirty.",
+			"Sure. I'll meet you at the theater at seven."
+		],
+		[
+			"I hear Batman is supposed to be good. Do you want to go see it tomorrow?",
+			"I have to eat dinner with my family tomorrow.",
+			"We can watch the late show. I think it starts at nine forty five.",
+			"That would be great.",
+			"What time can you be at the theater by?",
+			"I can be there by 9:15.",
+			"Ok. I'll meet you there."
+
+			"What are you doing tomorrow?",
+			"Nothing really.",
+			"Let's watch a movie or something.",
+			"What's on these days?",
+			"I think they're playing Lord of the Rings"
+			"That sounds pretty good. Let's watch that.",
+			"Where should we meet?",
+			"How about at the subway entrance.",
+			"Alright. I'll meet you there at one o'clock."
+		],
+		[
+
+			"Hey Steve, what are you doing these days?",
+			"Just working. The same as usual.",
+			"Have you seen Shiri?",
+			"No. I haven't seen that yet.",
+			"Let's go watch it tomorrow. It's a weekend and you should take a break.",
+			"Well, to think of it, that sounds great.",
+			"I'll give you a call tomorrow about noon and let you know the time.",
+			"Ok. I'll see you tomorrow.",
+			"See you."
+		],
+		[
+
+			"What should we do this Saturday?",
+			"Rocky six is suppose to come out this Friday.",
+			"Yeah, but I don't know if it is going to be any good.",
+			"The only reason I want to see it is because I have seen the previous five.",
+			"True. Ok. Let's see it this Saturday.",
+			"How about we hook up for lunch at 12:00, and then go see the movie afterwards.",
+			"Sounds like a plan. Let's meet in front of Tower Records at 12:00."
+		],
+		[
+			"I want to go to the cinema",
+			"let me check: https://www.yelp.com/search?find_desc=cinema&find_loc=Hamburg
+"
+		],
+		[
+			"I want to see a movie",
+			"here are some cinemas: https://www.yelp.com/search?find_desc=cinema&find_loc=Hamburg"			
+		],
+		[
+			"Where are the cinemas ?",
+			"here you are: https://www.yelp.com/search?find_desc=cinema&find_loc=Hamburg"
 		]
 	]
 }
