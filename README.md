@@ -1,19 +1,20 @@
 # chatbot_get_in_it
-chatbot for a get in it and cap gemini competition
-#train the system to recognize the language(TBD)
-#for now it will be done through asking the user his favourite language
-#train it to translate in a few language
+##chatbot for a get in it and cap gemini competition
+*train the system to recognize the language
+*for now it will be done through asking the user his favourite language
+*train it to translate in a few language
+The bot is now able to understand/talk english, french, german and spanish
 
-#the bot asks the user in which city he is
-#begin speaking 
-#define some uses cases to chat 
-#define some use cases to require food, parties, discount... and the expected output (in our case a link to a webpage on yelp)
-###translation will be added in further versions
-#the bot asks which language the user wishes to speak
-#the bot will have as input (english or french or italian or german or spanish)
-#if it is not english the bot will translate from the language given as input by the user to english
-#after translation the best answer is given in english
-#the answer goes through an other translator from english to the required language
-#train it with the answer as input for generating answers
-#translate the answer to the input language
-#output the aswer
+*Due to lak of time, no real custom dataset was created and this one had to be manually handcrafted*
+*Therefore the bot may seem very stupid as he lacks vocabulary*
+
+run the cells in the jupyter notebook chatbot_competition_final
+
+it will first generate a bin file and parse the json to generate a vocabulary corpus
+
+then It will run different neural networks LSTM to create the chatbot
+
+finally it will propose to chat
+
+*Once again, due to lack of time, the bot was ponctually trained on testing dataset never on the fnal one*
+*therefore I am not able to provide abias and weights file and can only hope the bot isable to perform*
