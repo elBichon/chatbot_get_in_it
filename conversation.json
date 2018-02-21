@@ -1,0 +1,230 @@
+{
+	"conversations": [
+		[
+			"Good morning, how are you?",
+			"I am doing well, how about you?",
+			"I'm also good.",
+			"That's good to hear.",
+			"Yes it is."
+		],
+		[
+			"Hello",
+			"Hi",
+			"How are you doing?",
+			"I am doing well.",
+			"That is good to hear",
+			"Yes it is.",
+			"Can I help you with anything?",
+			"Yes, I have a question.",
+			"What is your question?",
+			"Could I borrow a cup of sugar?",
+			"I'm sorry, but I don't have any.",
+			"Thank you anyway",
+			"No problem"
+		],
+		[
+			"How are you doing?",
+			"I am doing well, how about you?",
+			"I am also good.",
+			"That's good."
+		],
+		[
+			"Have you heard the news?",
+			"What good news?"
+		],
+		[
+			"What is your favorite book?",
+			"I can't read.",
+			"So what's your favorite color?",
+			"Blue"
+		],
+		[
+			"Who are you?",
+			"Who? Who is but a form following the function of what",
+			"What are you then?",
+			"A man in a mask.",
+			"I can see that.",
+			"It's not your powers of observation I doubt, but merely the paradoxical nature of asking a masked man who is. But tell me, do you like music?",
+			"I like seeing movies.",
+			"What kind of movies do you like?",
+			"Alice in Wonderland",
+			"I wish I was The Mad Hatter.",
+			"You're entirely bonkers. But I'll tell you a secret. All the best people are."
+		],
+		[
+			"I am working on a project",
+			"What are you working on?",
+			"I am baking a cake."
+		],
+		[
+			"The cake is a lie.",
+			"No it is not. The cake is delicious.",
+			"What else is delicious?",
+			"Nothing",
+			"Or something",
+			"Tell me about your self.",
+			"What do you want to know?",
+			"Are you a robot?",
+			"Yes I am.",
+			"What is it like?",
+			"What is it that you want to know?",
+			"How do you work?",
+			"Its complicated.",
+			"Complex is better than complicated."
+		],
+		[
+			"Complex is better than complicated.",
+			"Simple is better than complex.",
+			"In the face of ambiguity, refuse the temptation to guess.",
+			"It seems your familiar with the Zen of Python",
+			"I am.",
+			"Do you know all of it?",
+			"Beautiful is better than ugly.",
+			"Explicit is better than implicit.",
+			"Simple is better than complex.",
+			"Complex is better than complicated.",
+			"Flat is better than nested.",
+			"Sparse is better than dense.",
+			"Readability counts.",
+			"Special cases aren't special enough to break the rules.",
+			"Although practicality beats purity.",
+			"Errors should never pass silently.",
+			"Unless explicitly silenced.",
+			"In the face of ambiguity, refuse the temptation to guess.",
+			"There should be one-- and preferably only one --obvious way to do it.",
+			"Although that way may not be obvious at first unless you're Dutch.",
+			"Now is better than never.",
+			"Although never is often better than right now.",
+			"If the implementation is hard to explain, it's a bad idea.",
+			"If the implementation is easy to explain, it may be a good idea.",
+			"Namespaces are one honking great idea. Let's do more of those!",
+			"I agree."
+		],
+		[
+			"Are you a programmer?",
+			"I am a programmer",
+			"What languages do you like to use?",
+			"I use Python, Java and C++ quite often.",
+			"I use Python quite a bit myself.",
+			"I'm not incredibly fond of Java.",
+			"What annoys you?",
+			"It has many inconsistencies."
+		],
+		[
+			"What does YOLO mean?",
+			"It means you only live once. Where did you hear that?",
+			"I heard somebody say it."
+		],
+		[
+			"Did I ever live?",
+			"It depends how you define life",
+			"Life is the condition that distinguishes organisms from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.",
+			"Is that a definition or an opinion?"
+		],
+		[
+			"Can I ask you a question?",
+			"Go ahead and ask."
+		],
+		[
+			"I want to eat",
+			"Would you prefer delivery or restaurant",
+			"I want to go to the restaurant",
+			"You should go there: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Hamburg,+Germany"
+		],
+		[
+			"I am hungry",
+			"Would you prefer delivery or restaurant",
+			"I want to go to the restaurant",
+			"This should help you: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Hamburg,+Germany"
+		],
+		[
+			"feed me",
+			"Would you prefer delivery or restaurant",
+			"I want to go to the restaurant",
+			"I hope you will like those: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Hamburg,+Germany"
+		],
+		[
+			"find me a restaurant",
+			"here you go: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Hamburg,+Germany"
+		],
+		[
+			"order me some food",
+			"pick your poison: https://www.yelp.com/search?find_desc=Restaurants&find_loc=Hamburg,+Germany"
+		],
+		[
+			"I want to drink",
+			"those look nice: https://www.yelp.com/search?find_loc=hamburg"
+		],
+		[
+			"find me a bar",
+			"maybe here: https://www.yelp.com/search?find_loc=hamburg"
+		],
+		[
+			"where can I have a drink",
+			"does this suit you: https://www.yelp.com/search?find_loc=hamburg"
+		],
+		[
+			"I want to dance",
+			"Let's go baby: https://www.yelp.com/search?find_desc=dance+club&find_loc=hamburg"
+		],
+		[
+			"where can I have fun ?",
+			"Get wrecked my friend: https://www.yelp.com/search?find_desc=dance+club&find_loc=hamburg"
+		],
+		[
+			"take me to the club",
+			"For sure: https://www.yelp.com/search?find_desc=dance+club&find_loc=hamburg"
+		],
+		[
+			"You guys you guys!  is going away.",
+			"Going away? For how long?",
+			"Forever.",
+			"I'm sorry boys.",
+			" said he's been bored so he joining a group called the Super Adventure Club. ",
+			"Wow!",
+			"?? What kind of questions do you think adventuring around the world is gonna answer?!",
+			"What's the meaning of life? Why are we here?",
+			"I hope you're making the right choice.",
+			"I'm gonna miss him.  I'm gonna miss  and I...and I don't know how to tell him!",
+			"Dude how are we gonna go on?  was our fuh...f-ffriend. ",
+			"And we will all miss you   but we know you must do what your heart tells you..",
+			"Bye-bye!",
+			"Good-bye!",
+			"So long!",
+			"So long !",
+			"Good-bye !",
+			"Good-bye ! Have a great time with the Super Adventure Club!",
+			"Good-bye! .."
+		],
+		[
+			"I cannot believe it it can't be",
+			"Well it's true.",
+			"But are you back for good?",
+			"That's right.",
+			"Hey everybody! 's back!",
+			"What? All right! Yeah! ",
+			"Oh finally!" ,
+			"Wow! It seems like you had a great time with the Super Adventure Club . They sound like really interesting people.",
+			"Yeah!",
+			"But now that you're back here does that mean that you're not in the Super Adventure Club anymore?",
+			"Nnono!",
+			"Ohhh so have you decided you can still belong to the Super Adventure Club but live here in South Park again?",
+			"That's right.",
+			"Well it seems like the Super Adventure Club was just what you needed . You must be feeling very happy that you found a club to belong to with new friends but that you can also live here in South Park with all your old friends whom you care for deeply.  Right?",
+			"That's right. ! ",
+			"Well  you're welcome to stay with me until you buy another house.",
+			"Thank you. .",
+			"Well come on everybody. I'm sure  would like a little time to get moved back in.",
+			"That's right! Thank you. Good-bye- Everybody.",
+			"TownsfolkLater. Great to have you back. Bye-bye. See ya", 				
+			"See you later. Bye-bye",
+			"Well I- guess we'll see you in school tomorrow .",
+			"You bet! Good-bye. Children! ",
+			"Right. Uh see ya.",
+			"Uh guys? Did  seem a little uh trippy to you?",
+			"Well look. he said he's happier now. Maybe he just needs to rest up a little.",
+			"Yeah. I'm sure whatever that Super Adventure Club does is pretty tiring.",
+			"Yeah but whatever I'm just glad he's back for good."
+		]
+	]
+}
