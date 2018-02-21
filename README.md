@@ -1,5 +1,5 @@
 # chatbot_get_in_it
-##chatbot for a get in it and cap gemini competition
+<h2>chatbot for a get in it and cap gemini competition</h2>
 *train the system to recognize the language
 *for now it will be done through asking the user his favourite language
 *train it to translate in a few language
