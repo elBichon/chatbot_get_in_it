@@ -317,19 +317,19 @@
 			"What time can you be at the theater by?",
 			"I can be there by 9:15.",
 			"Ok. I'll meet you there."
-
+		],
+		[
 			"What are you doing tomorrow?",
 			"Nothing really.",
 			"Let's watch a movie or something.",
 			"What's on these days?",
-			"I think they're playing Lord of the Rings"
+			"I think they're playing Lord of the Rings",
 			"That sounds pretty good. Let's watch that.",
 			"Where should we meet?",
 			"How about at the subway entrance.",
 			"Alright. I'll meet you there at one o'clock."
 		],
 		[
-
 			"Hey Steve, what are you doing these days?",
 			"Just working. The same as usual.",
 			"Have you seen Shiri?",
@@ -341,7 +341,6 @@
 			"See you."
 		],
 		[
-
 			"What should we do this Saturday?",
 			"Rocky six is suppose to come out this Friday.",
 			"Yeah, but I don't know if it is going to be any good.",
@@ -352,8 +351,7 @@
 		],
 		[
 			"I want to go to the cinema",
-			"let me check: https://www.yelp.com/search?find_desc=cinema&find_loc=Hamburg
-"
+			"let me check: https://www.yelp.com/search?find_desc=cinema&find_loc=Hamburg"
 		],
 		[
 			"I want to see a movie",
